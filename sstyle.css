@@ -128,7 +128,7 @@ select{
 
 .search{
     margin-top: .2em;
-    background-color: #fff;
+    background-color: green;
     position: fixed;
     display: flex;
     justify-content: space-between;
